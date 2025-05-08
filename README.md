@@ -16,18 +16,16 @@ To build and evaluate a machine learning model that can accurately classify the 
 
 ## 🛠️ Technologies Used
 
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Python (Pandas, NumPy,  Scikit-learn)
 - Jupyter Notebook or VSCode
-- ML Models: Logistic Regression, KNN, SVM, Random Forest, etc.
+- ML Model: Logistic Regression.
 
 ## 🚀 Steps
 
 1. Load and preprocess the dataset
-2. Perform exploratory data analysis (EDA)
-3. Encode the target labels
-4. Split the data into train/test sets
-5. Train various classification models
-6. Evaluate model performance using metrics like accuracy, confusion matrix, and classification report
+2. Encode the target labels
+3. Split the data into train/test sets
+4. Evaluate model performance using metrics accuracy score
 
 ## 📊 Performance Metrics
 
